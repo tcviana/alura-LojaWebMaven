@@ -1,2 +1,2 @@
 # aluraLojaWebMaven
-Maven
+Maven para Java
